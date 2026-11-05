@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-express-checkout-flutter",
+  "capabilityKey": "planned:ecommerce:express-checkout",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_express_checkout_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/express-checkout.md",
+  "presentationPlan": "projects/ecommerce/flutter/express-checkout.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
